@@ -24,3 +24,9 @@
     max-width: 1100px;
     margin: 0 auto;
 }
+
+@media (max-width: 800px){
+    .pokemon_container {
+        display: contents;
+    }
+}

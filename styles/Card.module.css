@@ -56,4 +56,11 @@
     background-color: #e33d33;
 }
 
+@media (max-width: 800px){ 
+    .card {
+        width: 50%;
+        margin: 0 auto;
+        margin-bottom: 2em;
+    }
+}
 
